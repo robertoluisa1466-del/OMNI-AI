@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "OMNI AI",
+    "slug": "omni-ai",
+    "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.robertoluisa.omniai"
+    },
+    "android": {
+      "package": "com.robertoluisa.omniai"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "55301d21-8f5c-4c97-8e90-d9b261b9948d"
+      }
+    }
+  }
+}
