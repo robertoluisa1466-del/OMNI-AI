@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "OMNI AI",
+    "slug": "omni-ai",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.robertoluisa.omniai"
+    }
+  }
+}
